@@ -1,0 +1,45 @@
+Image wise Analysis
+
+Accessories-Shoes.jpg.txt -: 2250
+Clothing-JacknJones.jpg.txt -: 2798
+Cosmetics-MountainValley.jpg.txt -: 850
+DineOut-Broadway.jpg.txt -: 2765
+DineOut-Charcoal.jpg.txt -: 293
+DineOut-Cowboy.jpg.txt -: 1240
+DineOut-Mustard.jpg.txt -: 147
+DineOut-Nandas.jpg.txt -: 228.6
+FastFood-BlueTokai.jpg.txt -: 540
+FastFood-CCD1.jpg.txt -: 208
+FastFood-CCD2.jpg.txt -: 126
+FastFood-FB.jpg.txt -: 921.9
+FastFood-Gabbar.jpg.txt -: 84
+FastFood-Lokl.jpg.txt -: 11.1
+FineDining-FW.jpg.txt -: 598
+Groceries-PlusPoint.jpg.txt -: 147
+Groceries-PP.jpg.txt -: 2
+Grocery-PP.jpg.txt -: 297
+HomeFurnishings-Fabindia.jpg.txt -: 3080
+HomeService-Handwritten.jpg.txt
+Salon-Bounce.jpg.txt -: 23628
+Salon-GT1.jpg.txt -: 580
+Salon-GT2.jpg.txt -: 844
+Salon-HairSpeak.jpg.txt -: 2.0
+Sports-AS.jpg.txt -: 2800
+Travel-Chennai.jpg.txt -: 1680.0
+
+
+Category Wise Analysis 
+
+Accessories - 2250
+Clothing - 2798
+Cosmetics - 850
+DineOut - 4673.6
+FastFood - 1891.0
+FineDining - 598
+Groceries - 149
+Grocery - 297
+HomeFurnishings - 3080
+HomeService - 0
+Salon - 25054.0
+Sports - 2800
+Travel - 1680.0

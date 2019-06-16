@@ -1,0 +1,26 @@
+F clothing - 2798.02  
+F cosmetics  850
+T accessroeis - 2250
+F DineOut - 2760 + 293 + 1375 + 147 + 440 = 5051
+F fastfood - 540 + 126 + 288 + 338 + 84 + 467 = 1843
+T fine dine 598
+F groceries 147 + 78 = 225 
+T grocery 297 
+T HomeFrnishings 3380 (3085) = 3380
+F salon 3628 + 843 + 649 + 354 = 5474
+FT sports 2800
+F travel 1680
+
+// Wrong Output Categories
+
+Clothing
+DineOut
+FastFood
+Groceries
+HomeFrnishings
+HomeService
+Salon
+Travel
+
+//REGEX
+[-+]?[0-9|\,]*\.+[0-9]+

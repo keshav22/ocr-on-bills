@@ -1,0 +1,42 @@
+CHARCOAL MUSEUM
+27th MAIN ROAD
+Opp:KEB POWER STATION
+2nd SECTOR , HSR LAYOUT
+Ph: 8103 444 111,80103 444 222
+gst in :29AAOFC2909G1ZA
+
+Token No: 7§
+Bill No: 830
+
+Table: <TABLE>
+Captain : <WAITER>
+
+Pax: 0
+
+Order Type :Dine in Normal
+Kot No:
+
+Date :21-05-2019 10:28PM
+
+ 
+
+ 
+
+SINo Item Qty Rate Amount
+01 QALFAHAM +1PORTIONIRICB9.00 189.00
+02 MANGO 1 70.00 70.00
+03 WATER 1 28.00 25.00
+item Total: (284.00
+Discount @0.00% 0.00
+—"" ~~ Gress Total: 284.00
+OSS TeX
+
+CGST @250% 189.00 473
+Round Of: 0.45
+
+____ Total :293.50
+
+Total items: 3
+Counter :F2C1
+Narration : Nil
+‘Thank You. Visk Again
